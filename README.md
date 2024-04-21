@@ -38,7 +38,7 @@ The code of this project is modified based on [SeisT](https://github.com/senli10
   ```Python
   >>> from models import get_model_list
   >>> get_model_list()
-  ['seist','lrnl']
+  ['seist','lnrl']
   ```
 
 - **Model Configuration**<br/>
